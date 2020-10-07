@@ -10,7 +10,7 @@
 
 ## *В результате тестирования выявлены следующие дефекты*:
 
-* [Валидные ключи не прошли валидацию в KeyValidator #1](https://github.com/Daniilzadorozhniy/KeyValidator/issues/1#issue-715875866)
+* [Валидные номера карт состоящие [19] цифр не проходят валидацию #1](https://github.com/Daniilzadorozhniy/Credit-Card-Number-Validator/issues/1)
 
 Описание процесса тестирования
 
