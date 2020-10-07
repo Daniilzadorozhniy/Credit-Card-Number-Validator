@@ -11,7 +11,6 @@
 ## *В результате тестирования выявлены следующие дефекты*:
 
 * [Валидные ключи не прошли валидацию в KeyValidator #1](https://github.com/Daniilzadorozhniy/KeyValidator/issues/1#issue-715875866)
-* [Невалидный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 прошел валидацию в KeyValidator #2](https://github.com/Daniilzadorozhniy/KeyValidator/issues/2#issue-715882528)
 
 Описание процесса тестирования
 
@@ -19,7 +18,6 @@
 
 Баг репорты
 
-[Чек лист](https://github.com/Daniilzadorozhniy/Test-case.git)
 
 ## *В качестве тестовых данных использовались данные*- [Генератор валидных номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 
