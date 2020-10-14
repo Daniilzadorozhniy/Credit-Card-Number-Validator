@@ -11,6 +11,8 @@
 ## *В результате тестирования выявлены следующие дефекты*:
 
 * [Валидные номера карт состоящие [19] цифр не проходят валидацию #1](https://github.com/Daniilzadorozhniy/Credit-Card-Number-Validator/issues/1)
+* [Валидные номера карт состоящие из [14] цифр не проходят валидацию #2](https://github.com/Daniilzadorozhniy/Credit-Card-Number-Validator/issues/2)
+* [Валидные номера карт состоящие из [15] цифр не проходят валидацию #3](https://github.com/Daniilzadorozhniy/Credit-Card-Number-Validator/issues/3)
 
 Описание процесса тестирования
 
@@ -19,14 +21,32 @@
 Баг репорты
 
 
-## *В качестве тестовых данных использовались данные*- [Генератор валидных номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
+## *В качестве тестовых данных использовались данные*- [Генератор валидных номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html) и [Тестовые номера кредитных карт](https://www.kobzarev.com/other/testoviye-nomera-kreditnyh-kart/):
 
 * VISA:
+
 4539663394558602
+
+4929592785373248
 * JCB:
+
 3537629913609145050
+
+3538592221315543
+
 * Diners Club - Carte Blanche:
+
 30511556300358
+
+* American Express
+
+378282246310005
+
+47383757405832784
+
+768492645364703875
+
+
 
 ## *Тестирование производилось в следующем окружении*:
 
